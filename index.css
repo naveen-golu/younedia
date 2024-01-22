@@ -5,9 +5,9 @@
     display: flex;
     position: fixed;
 } 
-#body{
+ #body{
     background-color: rgb(230, 227, 227);
     z-index: 0;
-}
+} 
 
 
