@@ -3,12 +3,13 @@
     font-size: 20px;
     margin-left: 300px ;
     display: flex;
-    position: fixed;
 } 
  #body{
      background-color: rgb(230, 227, 227); 
-    /* background-color: rgba(240, 197, 117, 0.719); */
     z-index: 0;
 } 
+a{
+    color: white;
+}
 
 
